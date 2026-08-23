@@ -1,12 +1,13 @@
 curl -X POST 'https://iam.cloud.ibm.com/identity/token' \
 -H 'Content-Type: application/x-www-form-urlencoded' \
 -d 'grant_type=urn:ibm:params:oauth:grant-type:apikey&apikey=MY_APIKEY'
+pip install qiskit-ibm-runtime
 pacman -S utilities
 pacman -S vim-plugins
 pacman -S editorconfig-vim
 pacman -S mingw-w64-x86_64-qt5
+pip install jupyter
 
-# Build Dependencies:
 mingw-w64-ucrt-x86_64-autotools
 mingw-w64-ucrt-x86_64-cc
 mingw-w64-ucrt-x86_64-gmp

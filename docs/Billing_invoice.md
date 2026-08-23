@@ -1,5 +1,6 @@
-# Account billing & invoices
-Source: https://docs-v4.strapi.io/cloud/account/account-billing
+# strapi
+
+[Account billing & invoices](Source: https://docs-v4.strapi.io/cloud/account/account-billing)
 
 # Account billing & invoices 
 
